@@ -38,6 +38,7 @@ flask-script
 flask-openid
 flask-babel
 python-fedora
+python-openid-cla
 flask
 
 #image 
