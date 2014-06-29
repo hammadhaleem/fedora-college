@@ -46,6 +46,6 @@ flask
 Pillow
 Pil
 #image 
-#pil -allow-external pil
+pil -allow-external pil
 
 networkx
