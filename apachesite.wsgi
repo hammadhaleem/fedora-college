@@ -1,6 +1,6 @@
-<VirtualHost *:80>
-		ServerName mywebsite.com
-		ServerAdmin admin@mywebsite.com
+<VirtualHost *:9090>
+		ServerName fedoracollege.com
+		ServerAdmin admin@fedoracollege.com
 		WSGIScriptAlias / /home/engineer/fedora-college/fedora_college.wsgi
 		<Directory /home/engineer/fedora-college/fedora_college/>
 			Order allow,deny

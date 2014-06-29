@@ -33,6 +33,8 @@ colorama==0.2.5
 # Development
 pymysql
 flask-sqlalchemy
+flask-script
+flask-openid
 flask
 
 #image 
