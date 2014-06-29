@@ -43,6 +43,8 @@ python-openid-cla
 python-openid-teams
 Flask-WTF
 flask
+Pillow
+Pil
 #image 
 #pil -allow-external pil
 
