@@ -41,8 +41,8 @@ Flask-WhooshAlchemy
 python-fedora
 python-openid-cla
 python-openid-teams
+Flask-WTF
 flask
-
 #image 
 #pil -allow-external pil
 
