@@ -39,6 +39,7 @@ flask-openid
 flask-babel
 python-fedora
 python-openid-cla
+python-openid-teams
 flask
 
 #image 
