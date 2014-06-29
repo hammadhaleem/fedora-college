@@ -36,6 +36,7 @@ pymysql
 flask-sqlalchemy
 flask-script
 flask-openid
+flask-babel
 flask
 
 #image 
