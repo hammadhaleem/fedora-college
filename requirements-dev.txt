@@ -44,8 +44,8 @@ python-openid-teams
 Flask-WTF
 flask
 Pillow
-Pil
+#Pil
 #image 
-pil -allow-external pil
+#pil -allow-external pil
 
 networkx
