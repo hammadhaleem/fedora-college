@@ -37,6 +37,7 @@ flask-sqlalchemy
 flask-script
 flask-openid
 flask-babel
+Flask-WhooshAlchemy
 python-fedora
 python-openid-cla
 python-openid-teams
