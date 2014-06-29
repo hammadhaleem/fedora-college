@@ -37,6 +37,7 @@ flask-sqlalchemy
 flask-script
 flask-openid
 flask-babel
+python-fedora
 flask
 
 #image 
