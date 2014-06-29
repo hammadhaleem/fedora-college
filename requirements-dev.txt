@@ -49,4 +49,5 @@ Pillow
 #image 
 #pil -allow-external pil
 
+ordereddict
 networkx
